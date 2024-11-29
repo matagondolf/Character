@@ -1,4 +1,4 @@
-import './src/style.css';
+import 'style.css';
 import { createScene } from './src/scene.js';
 import { createCharacter } from './src/character.js';
 import { createControlMenu } from './src/controls.js';
